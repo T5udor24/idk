@@ -13,3 +13,6 @@ window.blit(img1,(x2,y2))
 #refresh the window
 display.update()
 time.delay(5000)
+
+
+#hjslhasijlhkhjalsdkhjaskkdhajsdhl
